@@ -1,4 +1,5 @@
 <h1 align="center"> 🌺 Hi, I'm Geovana! ✨</h1>
+
 ## 🍧 About me
 - 🎓 Computer Engineering Student  
 - 🧠 Focused on Machine Learning & MLOps   
