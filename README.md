@@ -39,7 +39,7 @@
 ---
 
 ## 💗 Featured Project
-🌟 mlops-star-type-classification  
+🌟 [MLops star type classification](https://github.com/geovanasaraiva/mlops-star-type-classification)  
 End-to-end ML pipeline with preprocessing, training and trackin
 
 ---
