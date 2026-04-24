@@ -1,11 +1,5 @@
 <h1 align="center"> 🌺 Hi, I'm Geovana! ✨</h1>
 
-<h3 align="center">
-  $\color{#FFB6C1}{\textsf{  Computer Engineering student 🖥️ }}$
-</h3>
-
----
-
 ## 🍧 About me
 - 🎓 Computer Engineering Student  
 - 🧠 Focused on Machine Learning & MLOps   
